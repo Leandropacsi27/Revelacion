@@ -1,5 +1,5 @@
 // Duración del contador en segundos
-const countdownDuration = 40;
+const countdownDuration = 20;
 
 // Género a revelar: "azul" o "rosa"
 const gender = "azul";
